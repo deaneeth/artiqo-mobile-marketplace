@@ -18,10 +18,9 @@ void main() async {
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
 
   // Initialize Cloudinary SDK
-  CloudinaryContext.cloudinary = Cloudinary.fromCloudName(
-    cloudName:
-        'your_cloud_name', // <-- Replace with your actual Cloudinary cloud name
-  );
+CloudinaryContext.cloudinary = Cloudinary.fromCloudName(
+  cloudName: const String.fromEnvironment('CLOUDINARY_CLOUD_NAME'),
+);
 
   // Start the app
   runApp(const MyApp());
