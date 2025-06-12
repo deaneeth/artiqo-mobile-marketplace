@@ -20,7 +20,6 @@ Atiqlo addresses the lack of digital market access for talented Sri Lankan handc
 - Seller profiles
 
 ### For Sellers (Artisans)
-
 - **Artisan Profiles**: Create detailed profiles with bio and contact information
 - **Product Listing**: Upload products with images, descriptions, and pricing
 - **Inventory Management**: Track stock levels with low-stock alerts
@@ -29,7 +28,6 @@ Atiqlo addresses the lack of digital market access for talented Sri Lankan handc
 - **Secure Chat**: Direct communication with potential buyers
 
 ### For Buyers
-
 - **Product Discovery**: Browse products by categories with search and filter options
 - **Wishlist**: Save favorite products for later purchase
 - **Secure Payments**: Integrated Sri Lankan payment gateways (PayHere, Genie)
@@ -38,7 +36,6 @@ Atiqlo addresses the lack of digital market access for talented Sri Lankan handc
 - **Reviews & Ratings**: Rate products and provide feedback
 
 ### General Features
-
 - **Multi-language Support**: Sinhala, Tamil, and English
 - **Real-time Notifications**: Alerts for messages, orders, and special offers
 - **Discount System**: Promo codes and special offers
@@ -176,4 +173,4 @@ This is an academic project. For any questions or suggestions, please feel free 
 
 ---
 
-**Note**: This application was specifically designed for the Sri Lankan market and includes local payment gateways and language support optimized for local users.
+**Note**: This application was specifically designed for the Sri Lankan market and includes local payment gateways and language support optimized for local users. 
